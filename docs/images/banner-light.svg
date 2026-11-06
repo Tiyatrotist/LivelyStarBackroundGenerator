@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Lively Star Background - An animated starry-night web wallpaper for Lively">
+  <title>Lively Star Background</title>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#1f2328" opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="239" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+  <rect x="0.5" y="0.5" width="999" height="239" rx="16" fill="url(#dots)"/>
+  <rect x="468" y="62" width="64" height="4" rx="2" fill="#3b82f6"/>
+  <text x="500" y="138" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" font-size="54" font-weight="600" letter-spacing="-1" fill="#1f2328">Lively Star Background</text>
+  <text x="500" y="186" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" font-size="22" fill="#59636e">An animated starry-night web wallpaper for Lively</text>
+</svg>
